@@ -1,0 +1,24 @@
+---
+import Social from '../components/Social.astro'
+const platform = ["Github", "Linkedin", "Instagram"];
+
+const username = "anbs12";
+const linkedin = "anubis12";
+const instagram = "anubisg_mr";
+---
+
+<style>
+    footer {
+      display: flex;
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+  </style>  
+
+<footer>
+
+    <Social platform={platform[0]} username={username} />
+    <Social platform={platform[1]} username={linkedin} />
+    <Social platform={platform[2]} username={instagram} />
+
+</footer>
