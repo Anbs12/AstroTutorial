@@ -40,6 +40,15 @@ All commands are run from the root of the project, from a terminal:
 | `npm run build`           | Build your production site to `./dist/`          |
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+
+
+![Captura de pantalla 2024-04-08 131804](https://github.com/Anbs12/AstroTutorial/assets/118308826/fea4ae61-81fb-4d52-ad7c-ca2f7a76929f)
+
+![Captura de pantalla 2024-04-08 131815](https://github.com/Anbs12/AstroTutorial/assets/118308826/3de898c8-188f-4b7f-a930-a22ad73db3ac)
+
+![Captura de pantalla 2024-04-08 131835](https://github.com/Anbs12/AstroTutorial/assets/118308826/94209c35-8e86-4f3b-a421-db6ffd256a32)
+
+
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
 ## 👀 Want to learn more?
